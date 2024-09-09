@@ -1,2 +1,2 @@
-Mix of moc=ding as well as some cutom art assets. 
-Few item and blockn assets provided by idTech
+A mix of code and some custom art assets is needed. 
+Few items and block assets provided by idTech
